@@ -10,6 +10,8 @@ A boilerplate project for wrapping web as a native app.
 
 1. change the property "AppUrl" in the dongara/App.plist
 
+![Screenshot](doc/app-url.png?raw=true "property")
+
 2. Run
 
 ## LICENSE
